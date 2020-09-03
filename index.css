@@ -17,6 +17,7 @@ h1 {
 form {
     margin:0 auto;
     width: 500px;
+    margin-bottom: 10px;
 }
 input {
     width: 400px;
