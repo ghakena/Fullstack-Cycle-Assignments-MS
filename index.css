@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&family=Syne&display=swap');
+
+body {
+    background: url("https://res.cloudinary.com/rokuirie/image/upload/v1599130441/react-form/form%20assignment/data_science_1_no7gcb.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+h1 {
+    color: whitesmoke;
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 100px;
+}
+
+form {
+    margin:0 auto;
+    width: 500px;
+}
+input {
+    width: 400px;
+    display: block;
+    padding: 20px;
+    margin: 10px;
+    border: none;
+}
+
+textarea {
+    margin-left: 10px;
+    margin-bottom: 10px;
+    width: 400px;
+    padding: 20px;
+}
+
+.btn {
+    margin: 10px;
+    padding: 20px;
+    border: none;
+    font-family: 'Noto Sans JP', sans-serif;
+}
